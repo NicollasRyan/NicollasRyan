@@ -30,11 +30,6 @@ Sou desenvolvedor front-end com experiência em diversas tecnologias e framework
 
 ## 💡 Experiências e Habilidades
 
-- **Experiência em produção** com React e TypeScript
-- **Programação Reativa** aplicada ao desenvolvimento front-end
-- Experiência com bibliotecas de UI como **Bootstrap**, **Material UI** e **AntDesign**
-- **Testes automatizados** para garantir a qualidade do código e a robustez das aplicações
-- Boa comunicação e colaboração em equipe, facilitando o trabalho em times multidisciplinares
 - Conhecimento em **integração com APIs RESTFUL** para consumo de dados em aplicações front-end
 - Vivência com **versionamento de código** (Git) para controle e organização em projetos colaborativos
 
