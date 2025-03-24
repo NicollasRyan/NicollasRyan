@@ -1,6 +1,7 @@
 # 👋 Olá, bem-vindo ao meu perfil!
 
 Sou desenvolvedor front-end com experiência em diversas tecnologias e frameworks. Abaixo estão as principais tecnologias e ferramentas com as quais trabalho, além de habilidades e experiências que aplico em projetos de produção.
+email: duartenr7@gmail.com
 
 ## 🚀 Tecnologias e Ferramentas
 
