@@ -34,7 +34,3 @@ email: duartenr7@gmail.com
 
 - Conhecimento em **integração com APIs RESTFUL** para consumo de dados em aplicações front-end
 - Vivência com **versionamento de código** (Git) para controle e organização em projetos colaborativos
-
----
-
-✨ Obrigado por visitar meu perfil! Estou sempre aberto a novos desafios e oportunidades.
