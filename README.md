@@ -2,8 +2,11 @@
 
 Sou desenvolvedor Front-end com experiência profissional no desenvolvimento de aplicações web utilizando **React, Next.js e TypeScript**, com foco em componentização, organização de código e integração com APIs REST.
 
+
 📧 Email: [duartenr7@gmail.com](mailto:duartenr7@gmail.com)
+
 💼 LinkedIn: https://www.linkedin.com/in/nicollas-ryan-barreto-duarte-a3b329267
+
 💻 GitHub: https://github.com/NicollasRyan
 
 ---
